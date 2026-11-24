@@ -1,0 +1,6 @@
+d = 4
+f2 = 13.8800 Hz
+1 s: N=200, bin spacing 1.0000 Hz
+4 s: N=800, bin spacing 0.2500 Hz
+Zero padded 1 s: NFFT=800, FFT display spacing 0.2500 Hz
+Zero padding changes FFT grid, NOT underlying 1-second observation duration.
