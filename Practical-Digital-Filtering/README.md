@@ -21,10 +21,3 @@ MATLAB implementation for **Part A (sensor FIR vs IIR)** and **Part B (50 Hz hum
 - `06_audio_notch_response.png` — narrow/wide notch designs
 - `sensor_rmse.csv`, `sensor_frequency_amplitudes.csv`, `audio_50hz_amplitudes.csv`
 
-## Verification and limitations
-
-**Not yet MATLAB-executed in this package.** The images and CSVs are generated on your computer when you run the script. `REPORT.md` is a draft, **not** an executed final report. The reference sample audio is MATLAB's `handel.mat`; audio is not redistributed. `filtfilt` is offline, not real-time, and filter magnitude responses shown by `freqz` are one-pass responses, not the squared-magnitude `filtfilt` response. No unverified claim of improved sound quality is made.
-
-## Course / AI disclosure
-
-AI was used to assist with code organization, explanations and documentation. Numerical results and listening observations must be verified and supplied by the student.
