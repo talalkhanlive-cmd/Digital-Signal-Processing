@@ -1,6 +1,0 @@
-1. Open exercise-3/exercise3.m and change d = 4 to YOUR last student-number digit (0-9).
-2. Run all four .m scripts using MATLAB. Check PNGs and numerical results.
-3. Update README.md: your digit (not student number), f2, and actual observations.
-4. Create a NEW public GitHub repository named lecture-5-fourier-assignment (exact name requested by the lecturer).
-5. Upload the project files and generated figures with their folders; submit repository URL if allowed.
-The starter ZIP does NOT claim that MATLAB scripts have been run.
