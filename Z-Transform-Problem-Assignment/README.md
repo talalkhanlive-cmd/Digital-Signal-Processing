@@ -27,11 +27,3 @@ Connect discrete-time samples and a one-sample delay to the Z-transform, then im
 ## Main conclusion
 Multiplication by `z^(-1)` corresponds to delaying a causal sequence by one sample (under the zero-initial-condition convention used here). The coefficients in `H(z)` set how strongly the present and previous input samples contribute. Changing `[0.5 0.5]` to `[0.8 0.2]` gives the current sample more weight.
 
-## Limitation
-The experiment uses a short, finite signal with zero input outside the listed samples; it does not evaluate how the filters act on long, noisy real-world signals.
-
-## AI assistance
-ChatGPT helped draft and organize the MATLAB script, explanations, and documentation. The mathematical outputs were independently checked algebraically in the preparation step. MATLAB figures in `results/` are only considered MATLAB-verified after the script is run and inspected in MATLAB.
-
-## Submission status
-The Moodle assignment displayed an overdue date and a previous grade of 0/100. Uploading to GitHub alone does not confirm that the instructor will accept a late submission; check Moodle submission permissions or contact the instructor.
