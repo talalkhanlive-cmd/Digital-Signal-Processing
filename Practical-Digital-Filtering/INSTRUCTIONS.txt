@@ -1,0 +1,7 @@
+1. Open digital_filtering_assignment.m in MATLAB Desktop.
+2. Set current folder to this project folder and click Run.
+3. Inspect all six PNG plots and three CSV files in results.
+4. Set playAudio=true, lower volume, rerun, and record observations.
+5. Fill measured values and listening notes in REPORT.md.
+6. Export your completed 3-5 page report as PDF and submit script + report + figures.
+7. Since Moodle shows an overdue, already-graded 0/100 submission, ask your lecturer whether resubmission can be accepted.
