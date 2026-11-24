@@ -1,0 +1,2 @@
+SampleRate_Hz,Duration_s,Channels,StopLow_Hz,StopHigh_Hz,Measured50HzBefore,Measured50HzAfter,Attenuation_dB
+8192,8.9249267578125,1,49,51,0.120197210163631,0.000839560268175906,-43.1168501999145
