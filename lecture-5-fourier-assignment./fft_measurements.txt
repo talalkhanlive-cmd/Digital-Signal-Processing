@@ -1,0 +1,5 @@
+N = 200
+fs = 200 Hz
+Bin spacing = 1.0000 Hz
+15 Hz bin: frequency 15.0000 Hz, amplitude 0.800000
+40 Hz bin: frequency 40.0000 Hz, amplitude 0.400000
