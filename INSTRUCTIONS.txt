@@ -1,7 +1,0 @@
-1. Upload z_transform_assignment.m to MATLAB Drive.
-2. Open it and click Run.
-3. Check the three figures, and download the generated results/ folder.
-4. Keep README.md and ANSWERS.md together with the MATLAB script and generated figures.
-5. Copy this folder into your existing Digital-Signal-Processing clone (do NOT copy a nested .git folder).
-6. From the MAIN repository directory: git pull --ff-only origin main ; git add Z-Transform-Problem-Assignment/ ; git commit -m "Complete Z-Transform Problem Assignment" ; git push origin main
-7. Submit your GitHub repository URL in Moodle if submissions are allowed.
