@@ -28,20 +28,6 @@ Run `Lecture03_convolution.m` in MATLAB. It produces the required `signal_operat
 
 **9. Give one engineering application.**  A moving-average filter can smooth a noisy temperature-sensor measurement so that short fluctuations do not trigger unnecessary control actions. Filter length must match the real rate of temperature change.
 
-## Results and verification
 
-Check the following after running MATLAB:
 
-- `signal_operations.png`: the red scaled waveform has twice the values of the noisy waveform at unchanged sample indices.
-- `signal_delay.png`: the delayed waveform begins with five zeros and is shifted right by five samples.
-- `noise_filtering.png`: the five-point filter reduces fast changes in the noisy trace.
-- `filter_comparison.png`: the 15-point filter is smoother but reduces the wanted sine-wave peaks more.
-- MATLAB Command Window: note the three RMSE values; they quantify overall deviation from the clean reference but do not by themselves reveal which frequency components were changed.
 
-## AI Usage
-
-**Tool used:** ChatGPT.
-
-**How it was used:** Assisted with drafting MATLAB code, organizing the plots and explaining the operations and filtering trade-offs.
-
-**What was verified or changed:** MATLAB execution and the final figures must be checked by the student. Record any corrections and the observed RMSE comparison after running the script; do not treat unverified generated outputs as measurements.
