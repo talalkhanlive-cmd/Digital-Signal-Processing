@@ -1,0 +1,4 @@
+Detector,CleanEdgePixels,NoisyEdgePixels,Difference,PercentChange
+Sobel + Gaussian (sigma=1),2099,2026,-73,-3.47784659361601
+Canny (sigma=1),7816,18112,10296,131.729785056295
+Canny (sigma=3),2780,3184,404,14.5323741007194
