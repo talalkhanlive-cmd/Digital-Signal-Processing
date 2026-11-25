@@ -1,0 +1,7 @@
+Method,EdgePixels
+Sobel clean,2503
+Canny clean sigma 1,7816
+Canny clean sigma 2,4413
+Canny clean sigma 3,2780
+Canny noisy sigma 1,18122
+Canny smoothed noisy sigma 1,11964

@@ -1,0 +1,7 @@
+Method,PSNR_dB
+Gaussian / Mean 3x3,24.3484423086366
+Gaussian / Gaussian 5x5 sigma=1,24.7816243743384
+Gaussian / Median 3x3,24.1135016619716
+SaltPepper / Mean 3x3,23.5440281968156
+SaltPepper / Gaussian 5x5 sigma=1,24.0538920773146
+SaltPepper / Median 3x3,26.65491585347
