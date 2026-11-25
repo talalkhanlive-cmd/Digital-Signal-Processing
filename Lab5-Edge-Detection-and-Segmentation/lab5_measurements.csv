@@ -1,0 +1,8 @@
+Metric,Value
+Sobel edge pixels,4757
+Prewitt edge pixels,4740
+Canny edge pixels,6821
+LoG edge pixels,8386
+Otsu threshold,0.396078431372549
+Otsu foreground pixels,53972
+Connected foreground regions,89
