@@ -21,6 +21,3 @@ Small, round, reflective points can be candidate studs, but not every bright reg
 
 ## Execution
 Open `tire_stud_detector.m` in MATLAB with Image Processing Toolbox and press **Run**. The script reads the image files from the same project directory and writes outputs to `results/`.
-
-## Submission note
-The Moodle task requires the **two teacher-provided images**. Replace the bundled demo images with those genuine photographs before submitting, and review the outputs for correctness.
