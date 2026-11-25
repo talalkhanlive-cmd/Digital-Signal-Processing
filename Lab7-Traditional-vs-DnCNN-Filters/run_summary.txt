@@ -1,0 +1,5 @@
+MATLAB version: 26.2.0.3386108 (R2026b)
+Input image: camera_image.png
+Noise: Gaussian, variance 0.001600, sigma 0.0400, RNG seed 7
+DnCNN ran successfully: 0
+DnCNN unavailable: Could not locate the base directory for nnet.
