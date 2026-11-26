@@ -1,0 +1,3 @@
+ImageFile,ExampleLabel,PredictedLabel,StudCandidates,CandidatesPer10000TirePixels
+studded_tire.jpeg,STUDDED TIRE,STUDDED TIRE,92,4.2191770770275
+summer_tire.jpg,NON-STUDDED TIRE,STUDDED TIRE,34,4.0577634562597
